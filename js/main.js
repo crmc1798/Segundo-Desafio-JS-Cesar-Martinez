@@ -18,7 +18,7 @@ if (edad >= 18) {
 }
 else {
     alert("Usted es menor de edad, no puede continuar");
-    location.href="../pages/MenorDeEdad.html";
+    location.href="MenorDeEdad.html";
 }
 
 
